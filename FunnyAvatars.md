@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Your privacy is very important to us. Sometimes we need information to provide services that you request, this privacy statement applies to [Funny Avatars](https://play.google.com/store/apps/details?id=com.garniev.clickcounterpro) Android application.
+Your privacy is very important to us. Sometimes we need information to provide services that you request, this privacy statement applies to [Funny Avatars](https://play.google.com/store/apps/details?id=com.garniev.funnyavatars) Android application.
 
 
 **Personal Information**
